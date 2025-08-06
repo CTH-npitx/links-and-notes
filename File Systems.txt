@@ -13,4 +13,13 @@ exFat: extended file allocation
 Linux uses "ext, ext2, ext3, ext4"
 no native windows or mac support. Has journaling (as of 2001, ext3). As of 2008, ext4 is default. as of 2025, most recent is ext4
 file size of 166 terabites, volume of 1 exabyte...
-	
+
+
+apples:
+HSF- hierarchal ("mac OS standard"
+
+HSF+ (released 1998) (HSF Extended/ Mac OS extended)
+
+Mac OS 10.4: macOS 10.4 (2010)
+
+2017, APFS (apple file system)
