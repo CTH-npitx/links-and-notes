@@ -23,8 +23,3 @@ HSF+ (released 1998) (HSF Extended/ Mac OS extended)
 Mac OS 10.4: macOS 10.4 (2010)
 
 2017, APFS (apple file system)
-
-ZFS= Zed File System
-	compatible with Linux, FreeBSD and TrueOS
-made by Sun Microsystems, and now developed by the open ZFS project
-integrated volume manager to control storage hardware (which, amongst other things, provides increased data protection)
