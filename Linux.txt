@@ -39,3 +39,4 @@ Pop!_OS
 good for gameing
 hybrid graphics, special nvidia drivers
 keyboard navigatation
+Rocky Linux: 10 year support
