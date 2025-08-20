@@ -31,4 +31,5 @@ zorin OS:
 similar to windows
 layout switcher
 tailored documntation
+
 cons: older computers will struggle to run anything but the lite version
