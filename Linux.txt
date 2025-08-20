@@ -22,3 +22,63 @@ Those people helped modify it, but it never really became popular besides those 
 
 However, some people took Linux and designed it to be easier to set up. However, it's still somewhat complex, and many people who describe it haven't used it.
 However, price wise, it's second to none! 0$, vs a hundred, or subscriptions...
+
+
+Nitrux: 
+pros: very easy, uses "app images", stable
+cons: not well documented
+
+
+Ubuntu: very easy setup, Appstore, desktops
+
+zorin OS:
+similar to windows
+layout switcher
+tailored documntation
+
+cons: older computers will struggle to run anything but the lite version
+
+variant of uubuntu
+pro-edition that does cost money, exclusive features
+
+Pop!_OS
+good for gameing
+hybrid graphics, special nvidia drivers
+keyboard navigatation
+
+Rocky Linux: 10 year support
+
+
+Ubuntu Server
+benifits of ubunt, but server based
+
+Kodachi
+Best for pricacy, can be used as a daily driver, connects through VPN, ubbuntoo, "panic features" like a nuke passcode to encrypteverything
+
+Rescatux
+custom recap, designed for inexperienced, lots of documentation
+
+miseeing some normal Linux stuff.
+
+useful for repairing files
+
+Parrot OS, good for forensic/ pen testing
+
+lots of tools, categorized menues, encrypted persistence
+
+interestingly, designed to also be useful for most users that want a secure and privacy-focused distro
+
+Open Media Vault is a debian-based that's good to convert old unused computer (or even a rasbary pi) into NAS
+
+Porteus:
+fast bootup, multiple desktops, persistant sessions. runs fully off of thumdrive
+unninutitive
+
+
+manjaro
+based on linux-arch
+attempts to take it's negatives by:
+customized installer, ready to use, several edditions
+
+puppy Linux
+designed for older hardware, multiple versions, lots of apps, good to ressurct and re-use ancient computers
