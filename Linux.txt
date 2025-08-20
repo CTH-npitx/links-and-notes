@@ -33,3 +33,5 @@ layout switcher
 tailored documntation
 
 cons: older computers will struggle to run anything but the lite version
+variant of uubuntu
+pro-edition that does cost money, exclusive features
