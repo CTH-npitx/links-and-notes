@@ -50,3 +50,8 @@ custom recap, designed for inexperienced, lots of documentation
 miseeing some normal Linux stuff.
 
 useful for repairing files
+Parrot OS, good for forensic/ pen testing
+
+lots of tools, categorized menues, encrypted persistence
+
+interestingly, designed to also be useful for most users that want a secure and privacy-focused distro
