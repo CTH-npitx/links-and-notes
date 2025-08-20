@@ -6,3 +6,9 @@ many OS's utilize the Linix Kernal, which is based on the Unix Kernal
 generally inside it is "package manager" (download), int system (running?) GNU tools, libraries, documentation, ect.
 available as source code, binaries, ect. Some might have propiatary code, but...
 
+some major distributions are Debian, Ubuntu, Fedora, Redhat...
+
+Made by Linus Torvalds made the Kernal
+And, effect "Linux is an interface between hardware and software"
+When Linus was in school, they where useing MINIX.
+He kept asking for some improvments (and others), but the developer Andrew Tanuabam.
