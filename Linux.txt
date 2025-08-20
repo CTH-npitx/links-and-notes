@@ -26,3 +26,4 @@ However, price wise, it's second to none! 0$, vs a hundred, or subscriptions...
 Nitrux: 
 pros: very easy, uses "app images", stable
 cons: not well documented
+Ubuntu: very easy setup, Appstore, desktops
