@@ -59,3 +59,7 @@ Open Media Vault is a debian-based that's good to convert old unused computer (o
 Porteus:
 fast bootup, multiple desktops, persistant sessions. runs fully off of thumdrive
 unninutitive
+manjaro
+based on linux-arch
+attempts to take it's negatives by:
+customized installer, ready to use, several edditions
