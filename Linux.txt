@@ -27,3 +27,8 @@ Nitrux:
 pros: very easy, uses "app images", stable
 cons: not well documented
 Ubuntu: very easy setup, Appstore, desktops
+zorin OS:
+similar to windows
+layout switcher
+tailored documntation
+cons: older computers will struggle to run anything but the lite version
