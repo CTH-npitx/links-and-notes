@@ -40,3 +40,5 @@ good for gameing
 hybrid graphics, special nvidia drivers
 keyboard navigatation
 Rocky Linux: 10 year support
+Ubuntu Server
+benifits of ubunt, but server based
