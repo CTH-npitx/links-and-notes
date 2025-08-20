@@ -23,3 +23,6 @@ Those people helped modify it, but it never really became popular besides those 
 
 However, some people took Linux and designed it to be easier to set up. However, it's still somewhat complex, and many people who describe it haven't used it.
 However, price wise, it's second to none! 0$, vs a hundred, or subscriptions...
+Nitrux: 
+pros: very easy, uses "app images", stable
+cons: not well documented
