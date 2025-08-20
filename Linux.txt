@@ -1,7 +1,6 @@
 Open source, free to modify
 
-made by "linus Linux"
-many OS's utilize the Linix Kernal, which is based on the Unix Kernal
+many OS's utilize the Linux Kernel, which is based on the Unix Kernel
 
 generally inside it is "package manager" (download), int system (running?) GNU tools, libraries, documentation, ect.
 available as source code, binaries, ect. Some might have propiatary code, but...
