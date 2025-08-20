@@ -44,3 +44,9 @@ Ubuntu Server
 benifits of ubunt, but server based
 Kodachi
 Best for pricacy, can be used as a daily driver, connects through VPN, ubbuntoo, "panic features" like a nuke passcode to encrypteverything
+Rescatux
+custom recap, designed for inexperienced, lots of documentation
+
+miseeing some normal Linux stuff.
+
+useful for repairing files
