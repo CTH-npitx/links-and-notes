@@ -63,3 +63,5 @@ manjaro
 based on linux-arch
 attempts to take it's negatives by:
 customized installer, ready to use, several edditions
+puppy Linux
+designed for older hardware, multiple versions, lots of apps, good to ressurct and re-use ancient computers
