@@ -56,3 +56,6 @@ lots of tools, categorized menues, encrypted persistence
 
 interestingly, designed to also be useful for most users that want a secure and privacy-focused distro
 Open Media Vault is a debian-based that's good to convert old unused computer (or even a rasbary pi) into NAS
+Porteus:
+fast bootup, multiple desktops, persistant sessions. runs fully off of thumdrive
+unninutitive
