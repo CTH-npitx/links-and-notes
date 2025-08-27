@@ -1,0 +1,1 @@
+fixing corrupted BIOS is similar to fixing OS, only more dangerous
