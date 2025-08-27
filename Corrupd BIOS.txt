@@ -7,3 +7,6 @@ third method is to use a paper clip to short pins one and 6 (on the "m-BIOS", or
 next:
 remove the discreet Graphics card
 if your CPU doesn't have integrated graphics, well... if you remove the discreet card and there is no integrated, well, no graphics!
+Reset the BIOS
+remove CMOS, (assuming if you can boot into BIOS), reset the jumper. There may be a "restore factory settings" or "load setup defaults"
+can brick stuff, cause issues. BIOS is DANGEROUS
