@@ -3,3 +3,4 @@ most effective is "warranty"
 if you have a gigabyte motherboard, there is a backup BIOS. If the main one is corrupted, you use the backup. If possible, it will use itself as a reference to fix the code. If it doesn't auto-happen, 
 power-off
 press and hold reset button
+third method is to use a paper clip to short pins one and 6 (on the "m-BIOS", or "main Bios")
