@@ -1,2 +1,5 @@
 fixing corrupted BIOS is similar to fixing OS, only more dangerous
 most effective is "warranty"
+if you have a gigabyte motherboard, there is a backup BIOS. If the main one is corrupted, you use the backup. If possible, it will use itself as a reference to fix the code. If it doesn't auto-happen, 
+power-off
+press and hold reset button
