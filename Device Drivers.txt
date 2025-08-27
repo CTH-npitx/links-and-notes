@@ -1,1 +1,2 @@
 Device Drivers:
+They are like an "OS" for the periferials
