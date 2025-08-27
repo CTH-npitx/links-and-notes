@@ -3,3 +3,4 @@ used to "boot.ini" (initialization)
 uses a special registry now
 both read-only and hidden (means I can see it, but it will warn me)
 in root directory of the partition marked "root"
+can disable via "system config", manipulate things like timing, default OS...
