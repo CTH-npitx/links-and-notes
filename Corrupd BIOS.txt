@@ -10,3 +10,4 @@ if your CPU doesn't have integrated graphics, well... if you remove the discreet
 Reset the BIOS
 remove CMOS, (assuming if you can boot into BIOS), reset the jumper. There may be a "restore factory settings" or "load setup defaults"
 can brick stuff, cause issues. BIOS is DANGEROUS
+Use jumper (Old motherboards)
