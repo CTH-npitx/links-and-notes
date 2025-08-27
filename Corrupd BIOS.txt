@@ -4,3 +4,6 @@ if you have a gigabyte motherboard, there is a backup BIOS. If the main one is c
 power-off
 press and hold reset button
 third method is to use a paper clip to short pins one and 6 (on the "m-BIOS", or "main Bios")
+next:
+remove the discreet Graphics card
+if your CPU doesn't have integrated graphics, well... if you remove the discreet card and there is no integrated, well, no graphics!
