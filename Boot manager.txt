@@ -5,3 +5,4 @@ both read-only and hidden (means I can see it, but it will warn me)
 in root directory of the partition marked "root"
 can disable via "system config", manipulate things like timing, default OS...
 trusted boot takes just the OS
+Secured Boot first checks "digitally signatures" to make sure it's safe.
