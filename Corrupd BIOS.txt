@@ -11,3 +11,7 @@ Reset the BIOS
 remove CMOS, (assuming if you can boot into BIOS), reset the jumper. There may be a "restore factory settings" or "load setup defaults"
 can brick stuff, cause issues. BIOS is DANGEROUS
 Use jumper (Old motherboards)
+Update BIOS
+	sometimes it will tell you to update
+	download copy of BIOS into flash drive, follow instructions
+	ensure steady power, OR ELSE
