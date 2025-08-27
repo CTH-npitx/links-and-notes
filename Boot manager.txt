@@ -1,0 +1,3 @@
+Boot manager
+used to "boot.ini" (initialization)
+uses a special registry now
