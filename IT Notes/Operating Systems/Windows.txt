@@ -1,4 +1,3 @@
-Different windows versions
 1.0: 1985, interface manager. Oddly, it's not supported...
 
 Windows 2000: introduced NTFS 3.0, encrypting file system, basic and dynamic disc storage
