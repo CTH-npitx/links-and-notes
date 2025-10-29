@@ -1,0 +1,1 @@
+hardrives store data in chuncks
