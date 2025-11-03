@@ -9,3 +9,4 @@ unlike JBOD (Just a bunch of discks). Acording to the computer, a RAID will look
 
 Unlike JBOD, RAID makes data more redundant
 
+There are many types
