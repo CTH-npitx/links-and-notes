@@ -32,6 +32,8 @@ Standard-
 - Raid 0: uses Striping to just split the data
 1-(1-AFR_singleDisck)^numberOfDiscks
 	1 disk failure will loose all data, and as more disks are more fault points, the equation above shows how more drives is a higher average failure rate
+- Raid 1: direct mirroring. That means it's as if you have half the capacity. Reading is faster as you have 2 cpies to read in parallel. Write speed is identical
+
 - Dead Standard:(outdated)
 	Raid 2: bit-level striping...
 	Raid 3: used striping and parity
