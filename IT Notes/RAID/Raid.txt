@@ -39,6 +39,6 @@ Standard-
 	Raid 2: bit-level striping...
 	Raid 3: used striping and parity
 	Raid 4: same
-Raid 5: uses block-level striping with parity blocks. It has better performance, if you loose 1 hardrive, the data is retrievable
+Raid 5: uses block-level striping with parity blocks. It has better performance, if you loose 1 hard rive, the data is retrievable
 Non-Standard-
 Hybrid- 
