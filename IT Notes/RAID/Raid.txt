@@ -40,7 +40,7 @@ Standard-
 	Raid 2: bit-level striping with ...
 	Raid 3: used byte levek striping and parity
 	Raid 4: used block level striping with dedicated parity
-Raid 5: uses block-level striping with parity blocks. It has better performance, if you loose 1 hard rive, the data is retrievable but performance suffers. Loose 2 hard rives, and, well, data's gone
+Raid 5: uses block-level striping with parity blocks, meaning it doesn't need a hardrive dedicated to parity. It has better performance, if you loose 1 hard rive, the data is retrievable but performance suffers. Loose 2 hard rives, and, well, data's gone
 
 Raid 6: same, but 2 parity blocks, so can withstand 2 failed drives
 
