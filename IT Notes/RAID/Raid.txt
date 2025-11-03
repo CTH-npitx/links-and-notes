@@ -43,5 +43,6 @@ Standard-
 Raid 5: uses block-level striping with parity blocks. It has better performance, if you loose 1 hard rive, the data is retrievable but performance suffers. Loose 2 hard rives, and, well, data's gone
 
 Raid 6: same, but 2 parity blocks, so can withstand 2 failed drives
+
 Non-Standard-
 Hybrid- 
