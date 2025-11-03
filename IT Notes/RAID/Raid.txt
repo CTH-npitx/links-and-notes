@@ -46,3 +46,4 @@ Raid 6: same, but 2 parity blocks, so can withstand 2 failed drives
 
 Non-Standard-
 Hybrid- 
+Raid 10: combines multiple Raid 1's, and then a Raid 0. Raid 100 is putting that on another raid 0
