@@ -1,3 +1,4 @@
 RAID
+
 Redundant Array; Independant Disck
 it uses multiple discks as one disck, to allow the storing of data redundantly
