@@ -42,7 +42,7 @@ Standard-
 	Raid 4: used block level striping with dedicated parity
 Raid 5: uses block-level striping with distributed parity blocks, meaning it doesn't need a hardrive dedicated to parity. It has better performance, if you loose 1 hard rive, the data is retrievable but performance suffers. Loose 2 hard rives, and, well, data's gone. Minimum of 3 discks, maximum of 16
 
-Raid 6: same, but 2 parity blocks, so can withstand 2 failed drives
+Raid 6: same, but 2 parity blocks, so can withstand 2 failed drives. Requires 4 drives, more efficient with more. more reliable. Long rebuild times
 
 Non-Standard-
 Hybrid- 
