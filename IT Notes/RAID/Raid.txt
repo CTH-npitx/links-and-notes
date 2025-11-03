@@ -2,3 +2,6 @@ RAID
 
 Redundant Array; Independant Disck
 it uses multiple discks as one disck, to allow the storing of data redundantly
+it is used to make data more redundant
+unlike JBOD (Just a bunch of discks). Acording to the computer, a RAID will look like one hardrive, whereas JBODS are multiple hardrives, and seen that way by the computer.
+Unlike JBOD, RAID makes data more redundant
