@@ -16,4 +16,4 @@ The controller, which is what makes the computer see it as 1 volume, and manages
 an example is a "PERC" card
 Software ones are based on programs.
 
-There are many types and features
+There are many types and featuressome terms:
