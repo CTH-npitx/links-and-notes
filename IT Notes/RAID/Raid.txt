@@ -10,7 +10,10 @@ unlike JBOD (Just a bunch of discks). Acording to the computer, a RAID will look
 Unlike JBOD, RAID makes data more redundant
 
 There are many typesParts:
+Parts:
 The controller, which is what makes the computer see it as 1 volume, and manages the backup
+
 2 main types; Hardware, and Software. Hardware ones are more reliable
 an example is a "PERC" card
 Software ones are based on programs.
+
