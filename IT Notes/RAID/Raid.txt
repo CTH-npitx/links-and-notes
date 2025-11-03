@@ -46,4 +46,5 @@ Raid 6: same, but 2 parity blocks, so can withstand 2 failed drives. Requires 4 
 
 Non-Standard-
 Hybrid- 
-Raid 10: combines multiple Raid 1's, and then a Raid 0. Raid 100 is putting that on another raid 0
+Raid 10: stripe contents, mirror said stripes. Offers same read-write of Raid 0, but same redundancy of raid one. But, needs 2 per section
+Raid 50: similar, but utilizing raid 5 on the striped info
