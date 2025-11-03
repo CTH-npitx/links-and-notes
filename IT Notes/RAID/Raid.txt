@@ -18,7 +18,10 @@ Software ones are based on programs.
 
 There are many types and features
 
+
 Data Striping:
 can read in parallel, stores every other piece of information, no fault tolerance
+
 Mirrioring: stores a copy of all information on 2 drives, this means no extra space, but perfect copy
+
 Parity: you loose more like 1/3 of all the capacity. Instead of duplicating data, it uses a "parity block" to allow recreation of lost data
