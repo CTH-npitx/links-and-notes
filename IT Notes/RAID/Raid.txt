@@ -16,7 +16,8 @@ The controller, which is what makes the computer see it as 1 volume, and manages
 an example is a "PERC" card
 Software ones are based on programs.
 
-There are many types and featuressome terms:
+There are many types and features
+
 Data Striping:
 can read in parallel, stores every other piece of information, no fault tolerance
 Mirrioring: stores a copy of all information on 2 drives, this means no extra space, but perfect copy
