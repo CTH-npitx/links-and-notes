@@ -14,7 +14,7 @@ The controller, which is what makes the computer see it as 1 volume, and manages
 
 2 main types; Hardware, and Software. Hardware ones are more reliable
 an example is a "PERC" card
-Software ones are based on programs.
+Software ones are based on programs, meaning no hardware. It's more configurable and easy to use. But it relies on the CPU/ RAM
 
 There are many types and features
 
