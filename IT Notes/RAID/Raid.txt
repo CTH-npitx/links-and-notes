@@ -18,6 +18,7 @@ Software ones are based on programs.
 
 There are many types and features
 
+some terms:
 
 Data Striping:
 can read in parallel, stores every other piece of information, no fault tolerance
