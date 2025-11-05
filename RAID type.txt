@@ -1,3 +1,6 @@
 1. Home Media Server:
 -RAID 5
 -1 disck tollerance, faster read speed
+2. Banking
+- RAID 6
+- Redundant, efficient
