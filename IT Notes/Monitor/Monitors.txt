@@ -28,3 +28,4 @@ TN: fast response times, worse viewing angle, worse color
 
 _______________________________
 LCD: like a filter. There is a light source, and a "LCD" filter that alters the orientation of the Liquid Crystal
+LED: uses LED (Light emmiting diode), distributed along the edges, or fully along the back (fully backlit), allowing altering
