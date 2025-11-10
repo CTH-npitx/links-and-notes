@@ -45,3 +45,5 @@ G-Sync/ Free-Sync
 Only difference is:
 G-Sync= NVIDIA
 Free-Sync = AMD
+
+
