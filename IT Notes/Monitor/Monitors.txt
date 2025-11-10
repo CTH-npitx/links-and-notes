@@ -46,5 +46,6 @@ Only difference is:
 G-Sync= NVIDIA
 Free-Sync = AMD
 	it is to attempt to prevent screen tearing, which happen when the monitor's refresh rate exceeds the GPU, basically the GPU sends a partial frame to keep up, leading to overlaps.
+	It causes the monitor to delay dynamically, adjusting it's refresh rate to match 
 
 
