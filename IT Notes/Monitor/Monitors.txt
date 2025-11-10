@@ -2,3 +2,4 @@ CRT: cathode ray tube,
 	640x480
 	800x600
 	1024x768
+in the "todays", OLED (organic LED), very good contrast, ability to do "perfect" black by turning off the pixel
