@@ -25,3 +25,5 @@ screen (the plastic between you and the lights)
 IPS- known for excellent color reproduction, and wide view angle. Good for graphic design, photo editing, other color sensitive work
 VA- high contrast ratio, good view angle
 TN: fast response times, worse viewing angle, worse color
+
+_______________________________
