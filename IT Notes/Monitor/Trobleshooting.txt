@@ -14,6 +14,8 @@ Blurry Display: it started with the CRT's, and it's not going anywhere
 	check cables
 	graphics card
 
+	windows key + shift + b
+		to restart graphics drivers
 
 
 
