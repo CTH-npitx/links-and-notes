@@ -22,5 +22,6 @@ bad pixels: a dead pixel, if a few, it's just annoying. If enough though...
 	some programs claim to be able to fix it, they work via something cauld "box flashing"
 	if caused by the liquid(crystal), try gently pushing, that can redistribute the liquid
 
+clouding: if you mishandle it, the LCD panels can get
 
 
