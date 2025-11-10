@@ -33,3 +33,6 @@ LED: uses LED (Light emmiting diode), distributed along the edges, or fully alon
 		okay energy
 OLED: each pixel is it's own organic light source. So each pixel can be different, and it can be "true black", as you can have it off.
 	most efficient
+__________________________________________
+specific technology:
+
