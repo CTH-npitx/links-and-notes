@@ -38,6 +38,6 @@ specific technology:
 
 HDR:High Dynamic Range
 	improve the quality and contrast of older formats. Dynamic range describes the range, HDR makes the contrast
-wether it can reach 200 knits, or 2000 knits (very dark, blinding), still limited by signal
+wether it can reach 200 knits, or 2000 knits (very dark, blinding), still limited by signal. It scales ranges so old formats which don't have the range. HDR just has steps to edit it, to scale the light
 
 
