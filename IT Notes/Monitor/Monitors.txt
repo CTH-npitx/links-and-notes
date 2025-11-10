@@ -13,3 +13,8 @@ had a higher refresh rate of 75+ hertz, "flicker free"
 
 in the "todays", OLED (organic LED), very good contrast, ability to do "perfect" black by turning off the pixel
 _________________________________________________________________________
+lots of pages, graphic designs, ect. Higher resoloution is better.
+
+For 4K videos, more resoloution = better, 4K optimal. But more graphics power
+
+many monitors use >60 hertz refresh, gameing monitors often go up to 200+
