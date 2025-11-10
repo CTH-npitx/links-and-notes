@@ -4,8 +4,11 @@ CRT: cathode ray tube,
 	1024x768
 got to
 used "VGA" cables for standard def
+
 CRT's don't have a "fixed native resoloution"
 had a higher refresh rate of 75+ hertz, "flicker free"
+
 16:9 is normal aspect ratio, good for "cinematic and immersive"
 2010's 4K, ~8 million pixels
+
 in the "todays", OLED (organic LED), very good contrast, ability to do "perfect" black by turning off the pixel
