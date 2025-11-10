@@ -18,3 +18,5 @@ lots of pages, graphic designs, ect. Higher resoloution is better.
 For 4K videos, more resoloution = better, 4K optimal. But more graphics power
 
 many monitors use >60 hertz refresh, gameing monitors often go up to 200+
+
+Response time is how long it takes for the pixels to change color, smaller=better
