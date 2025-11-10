@@ -36,5 +36,8 @@ OLED: each pixel is it's own organic light source. So each pixel can be differen
 __________________________________________
 specific technology:
 
+HDR:High Dynamic Range
+	improve the quality and contrast of older formats. Dynamic range describes the range, HDR makes the contrast
+wether it can reach 200 knits, or 2000 knits (very dark, blinding), still limited by signal
 
 
