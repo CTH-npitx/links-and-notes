@@ -41,6 +41,7 @@ HDR:High Dynamic Range
 wether it can reach 200 knits, or 2000 knits (very dark, blinding), still limited by signal. It scales ranges so old formats which don't have the range. HDR just has steps to edit it, to scale the light
 	Ultra-HD Blueray can store HDR, and/ or 4K. But, you need a player compatible
 
-G-Sync
-
-Free-Sync
+G-Sync/ Free-Sync
+Only difference is:
+G-Sync= NVIDIA
+Free-Sync = AMD
