@@ -4,6 +4,9 @@ typically it will display a box if it works.
 IPS glow: mostly just minimization, distance, bright light, ect. Losening the screen might help
 	more a material constrait
 
+backlight bleed is when the light "bleeds" around the edges
+	more a design flaw than anything. Soloution? don't cheap out
+	light obstructing tabe can help
 
 
 
