@@ -24,4 +24,7 @@ bad pixels: a dead pixel, if a few, it's just annoying. If enough though...
 
 clouding: if you mishandle it, the LCD panels can get
 
+burn in: primarily an issue with CRT's, but still an issue. If the damage is minor, then it's just the image lingering short term, but if kept too long, it will be permanent.
+	if you have ghosting, turn off the monitor short term
+once it's become more major, you can try flashing through every color in the spectrum, or pure white. That can mitigate it
 
