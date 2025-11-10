@@ -51,3 +51,6 @@ Free-Sync = AMD
 More advanced version factors in 120 hz, and works factoring in framedrops
 last has HDR stuff
 
+NVIDIA says that free-sync will work up to under 30 hertz, seems to work up to around 48 hertz
+
+G-sync uses a special chip in the monitor, but this allows things like frame-doubling, and also it helps remove motion blur
