@@ -28,3 +28,4 @@ burn in: primarily an issue with CRT's, but still an issue. If the damage is min
 	if you have ghosting, turn off the monitor short term
 once it's become more major, you can try flashing through every color in the spectrum, or pure white. That can mitigate it
 
+Buzzing/ Flickering: primarily CRT's, in those cases hitting it could help. But, now, it's software, so you are just damaging the monitor. Elsewishe it's either software, or get new monitor
