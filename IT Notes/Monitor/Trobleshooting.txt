@@ -1,3 +1,5 @@
+no drivers, built in settings, ect.
+typically it will display a box if it works.
 
 
 
