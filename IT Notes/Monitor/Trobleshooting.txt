@@ -8,6 +8,11 @@ backlight bleed is when the light "bleeds" around the edges
 	more a design flaw than anything. Soloution? don't cheap out
 	light obstructing tabe can help
 
+Blurry Display: it started with the CRT's, and it's not going anywhere
+	try looking into software, check drivers. Afterwards, check if plugging in a working one fixes it.
+	alternate ports
+	check cables
+	graphics card
 
 
 
