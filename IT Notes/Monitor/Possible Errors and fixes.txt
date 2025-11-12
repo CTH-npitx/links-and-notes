@@ -40,3 +40,8 @@ visual distortions or artifacting: same as normal artifacting/ distortin, but pe
 
 display hub/ docking station: there might be some limitations to the signals and such.
 	some cap refresh rates for 8K or 4K with more than 2 screens
+
+monitor suddenly malfunctions:
+	updates, drivers, cables...
+win + ctrl + shift + b
+	reset graphics driver
