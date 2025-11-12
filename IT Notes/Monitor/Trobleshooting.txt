@@ -32,4 +32,5 @@ Buzzing/ Flickering: primarily CRT's, in those cases hitting it could help. But,
 
 distorted display. You can try reinstalling the drivers. If it doesn't work, it's hardware
 
+dual monitor: 
 ________________
