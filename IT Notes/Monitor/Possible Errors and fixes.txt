@@ -45,3 +45,6 @@ monitor suddenly malfunctions:
 	updates, drivers, cables...
 win + ctrl + shift + b
 	reset graphics driver
+
+images don't align:
+	misaligned monitor size or resolution
