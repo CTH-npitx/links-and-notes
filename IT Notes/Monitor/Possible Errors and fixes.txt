@@ -8,3 +8,6 @@ in game settings can fix using the wrong monitor, if not
 
 win + i 
 	opens settings
+when it defaults to duplicate, change it ( win + p, or settings)
+	win + p
+		loads project menue
