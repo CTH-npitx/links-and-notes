@@ -1,1 +1,2 @@
-nots on monitors
+notes on monitors
+distorted display. You can try reinstalling the drivers. If it doesn't work, it's hardware
