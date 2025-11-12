@@ -12,3 +12,6 @@ win + i
 when it defaults to duplicate, change it ( win + p, or settings)
 	win + p
 		loads project menue
+
+monitor(s) constantly flickering
+	check cables
