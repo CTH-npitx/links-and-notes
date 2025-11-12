@@ -32,3 +32,6 @@ check drivers and such
 (back to "multi-monitor"):
 games keep minimizing
 	could be you clicking another monitor
+
+apps and tabs kepp getting shuffled
+	it's a display setting
