@@ -1,2 +1,3 @@
 wrong refresh rate, can cause "no signal", as it has no valid input
 if using tv, might need to use "overscan" or "underscan", 
+aspect ratio can be messed up using portrait mode
