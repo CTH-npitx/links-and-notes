@@ -18,3 +18,7 @@ monitor(s) constantly flickering
 
 wone monitor off, check cables, settings, ect.
 
+mismatched colors:
+	get same monitor
+	color profile might allow enough adjustments to fix it
+		or display calabriation
