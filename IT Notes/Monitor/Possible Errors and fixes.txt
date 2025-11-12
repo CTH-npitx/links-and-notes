@@ -39,3 +39,4 @@ apps and tabs kepp getting shuffled
 visual distortions or artifacting: same as normal artifacting/ distortin, but perhaps shortening cable
 
 display hub/ docking station: there might be some limitations to the signals and such.
+	some cap refresh rates for 8K or 4K with more than 2 screens
