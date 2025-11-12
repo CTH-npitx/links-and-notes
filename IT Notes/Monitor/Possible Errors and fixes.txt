@@ -22,3 +22,13 @@ mismatched colors:
 	get same monitor
 	color profile might allow enough adjustments to fix it
 		or display calabriation
+
+if doing 3 monitors:
+	basically the same
+can only duplicate 2 (it will extend to 1, then duplicate one of those 2 monitors to the other)
+
+check drivers and such
+
+(back to "multi-monitor"):
+games keep minimizing
+	could be you clicking another monitor
