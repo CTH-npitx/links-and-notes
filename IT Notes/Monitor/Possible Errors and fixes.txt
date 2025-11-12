@@ -16,3 +16,5 @@ when it defaults to duplicate, change it ( win + p, or settings)
 monitor(s) constantly flickering
 	check cables
 
+wone monitor off, check cables, settings, ect.
+
