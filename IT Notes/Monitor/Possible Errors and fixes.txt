@@ -35,3 +35,7 @@ games keep minimizing
 
 apps and tabs kepp getting shuffled
 	it's a display setting
+
+visual distortions or artifacting: same as normal artifacting/ distortin, but perhaps shortening cable
+
+display hub/ docking station: there might be some limitations to the signals and such.
