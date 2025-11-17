@@ -3,3 +3,4 @@ Active: uses mechanical means
 2 main ways
 	air-based, useing fans
 	liquid based
+air-based can be noisy, but won't leak. Liquid cooling uses a liquid (often water). It passes through the components, then goes to a radiator. Much more efficient, quieter, and can reach lower temps (especially if you use a cooler medium, lique LN2, as liquid nitrogen is cold). But if it leaks...
