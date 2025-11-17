@@ -1,0 +1,5 @@
+Active: uses mechanical means
+
+2 main ways
+	air-based, useing fans
+	liquid based
