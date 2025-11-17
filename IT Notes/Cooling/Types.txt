@@ -14,3 +14,7 @@ heatsinks: devices with a high surface area, and thermal conductivity. Uses conv
 	dependant on airflow, so if enclosed... not very good
 
 thermal pads and thermal paste: they fill in the small imperfections to allow better heat conduction
+
+benifits of effective cooling: better performance, longevity
+
+cable management will help
