@@ -44,7 +44,6 @@ Raid 5: uses block-level striping with distributed parity blocks, meaning it doe
 
 Raid 6: same, but 2 parity blocks, so can withstand 2 failed drives. Requires 4 drives, more efficient with more. more reliable. Long rebuild times
 
-Raid 5: uses block-level striping with parity blocks. It has better performance, if you loose 1 hardrive, the data is retrievable
 Non-Standard-
 Raid DP- an extension of Raid 6, supposed to be faster
 Linux AD is a modified version of Raid 10 that 
