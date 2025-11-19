@@ -11,5 +11,12 @@ buy new fans
 
 
 liquid cooling:
+<<<<<<< Updated upstream
 check pump RPM, check pump physically
 if using software, make sure you have it properly plugged into the motherboard
+
+check for leaks
+
+estimated lifespan:
+all in ones: 4 to 6 years
+custom setup: without maintanience, about 3 years.
