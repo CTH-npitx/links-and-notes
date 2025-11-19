@@ -3,3 +3,8 @@ step 2: tighten screws
 
 intermident stopping:
 step 1: check connections
+
+loud:
+adjust fans settings in BIOS (f2, for instance)
+adjust fans settings elsewhere
+buy new fans
