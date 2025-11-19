@@ -1,0 +1,2 @@
+step 1: check for objects
+step 2: tighten screws
