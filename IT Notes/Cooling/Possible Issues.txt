@@ -1,2 +1,5 @@
 step 1: check for objects
 step 2: tighten screws
+
+intermident stopping:
+step 1: check connections
