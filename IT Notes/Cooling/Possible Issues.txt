@@ -9,5 +9,6 @@ adjust fans settings in BIOS (f2, for instance)
 adjust fans settings elsewhere
 buy new fans
 
+
 liquid cooling:
-check pump RBM, check pump physically
+check pump RBM, check pump physicallyif useing software, make sure you have it properly plugged into the mmotherboard
