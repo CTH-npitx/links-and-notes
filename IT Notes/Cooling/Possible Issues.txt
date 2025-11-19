@@ -12,4 +12,5 @@ buy new fans
 
 liquid cooling:
 check pump RBM, check pump physicallyif useing software, make sure you have it properly plugged into the mmotherboard
+
 check for leaks
