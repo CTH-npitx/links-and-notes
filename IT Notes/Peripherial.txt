@@ -1,0 +1,7 @@
+peripherial devices add functionality that is not inherent to the computer (it will function with or without)
+
+you don't need, say, a keyboard to run it
+inputs: 
+outputs:
+storage devices
+communication
