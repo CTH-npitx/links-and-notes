@@ -8,3 +8,4 @@ uninstall device, (which delete the drivers and then tells it that it doesn't ex
 
 "rollback driver", if something goes wrong, you can use this to roll back to a previous version
 resourses tab, which straight up tells you the resource tab
+the events tab show you any error logs
