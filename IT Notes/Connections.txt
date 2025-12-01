@@ -4,3 +4,4 @@ Display Port: carries visual
 Aux-Cord: carries sound
 Blu-tooth: a type of wireless protocol
 wi-fi: a wireless protocol
+thunderbolt: small devices
