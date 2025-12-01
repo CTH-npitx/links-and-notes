@@ -1,4 +1,4 @@
-if a device has an issue, the category where that device is will (usually) open expanded
+IF A DEVICE HAS AN ISSUE, THE CATEGORY WHERE THAT DEVICE IS WILL (usually) OPEN EXPANDED
 
 you can manage things like individual drivers/ devices
 the driver that is shown for graphics though is often the windows "basic compatibility driver". Typically installed with windows, and it's so you can, well, see, what you are doing to get the actual driver
