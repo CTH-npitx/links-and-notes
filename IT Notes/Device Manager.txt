@@ -5,4 +5,5 @@ the driver that is shown for graphics though is often the windows "basic compati
 
 you can get details of it. Can be used to update them, disable devices to test other things
 uninstall device, (which delete the drivers and then tells it that it doesn't exist)
+
 "rollback driver", if something goes wrong, you can use this to roll back to a previous version
