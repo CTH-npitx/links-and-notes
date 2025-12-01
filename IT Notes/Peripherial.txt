@@ -1,6 +1,16 @@
 peripherial devices add functionality that is not inherent to the computer (it will function with or without)
 you don't need, say, a keyboard to run it
-inputs: 
+
+inputs:
+they take non-digital things, like sound, into binary
+
 outputs:
+they take the digital signal from an input, and convert it into, say, vibrations
+
+
 storage devices
+used to store stuff, practically necessary
+
+
 communication
+router: route multiple computers together
