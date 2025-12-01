@@ -1,3 +1,4 @@
 VGA: older video connection
 HDMI: carries audio and visual (It's a hybrid of Display Port and Aux-Cord)
 Display Port: carries visual
+Aux-Cord: carries sound
