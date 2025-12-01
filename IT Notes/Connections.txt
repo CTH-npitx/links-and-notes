@@ -9,4 +9,7 @@ thunderbolt: small devices
 	loved by apple, especially with Lightning cable
 USB- connecting many things
 	types:
+		A- it's a square
+		B- rectangul
+		C- unidirectional, thin rectangle
 ethernet- wired networking
