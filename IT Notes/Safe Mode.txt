@@ -4,3 +4,4 @@ very good to determine if the issue is windows-based, or third party software ba
 
 there are many ways to do it:
 	one of the simplest ways is to use "ms config", also known as System Configuration
+		look at the OS (this is also how you can change default OS's. Hit the check box labled "safe mode")
