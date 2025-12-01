@@ -1,1 +1,3 @@
 IF A DEVICE HAS AN ISSUE, THE CATEGORY WHERE THAT DEVICE IS WILL (usually) OPEN EXPANDED
+
+you can manage things like individual drivers/ devices
