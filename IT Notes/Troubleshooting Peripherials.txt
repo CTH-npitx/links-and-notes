@@ -1,0 +1,1 @@
+wireless often use IR or radio, often a "USB dongle"
