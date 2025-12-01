@@ -3,3 +3,5 @@ if a device has an issue, the category where that device is will (usually) open 
 you can manage things like individual drivers/ devices
 the driver that is shown for graphics though is often the windows "basic compatibility driver". Typically installed with windows, and it's so you can, well, see, what you are doing to get the actual driver
 
+you can get details of it. Can be used to update them, disable devices to test other things
+uninstall device, (which delete the drivers and then tells it that it doesn't exist)
