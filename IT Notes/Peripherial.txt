@@ -9,6 +9,10 @@ scanner
 they take non-digital things, like sound, into binary
 
 outputs:
+speakers
+screens
+printer
+headphone
 they take the digital signal from an input, and convert it into, say, vibrations
 
 
