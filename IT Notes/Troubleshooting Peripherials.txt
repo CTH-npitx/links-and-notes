@@ -1,2 +1,3 @@
 wireless often use IR or radio, often a "USB dongle"
 sometimes blutooth
+most have a max range, and stuff might not block it, but stuff will interfere and weaken it
