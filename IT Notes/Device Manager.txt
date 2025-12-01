@@ -1,1 +1,3 @@
 if a device has an issue, the category where that device is will (usually) open expanded
+
+you can manage things like individual drivers/ devices
