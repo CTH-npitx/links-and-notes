@@ -21,4 +21,7 @@ used to store stuff, practically necessary
 
 
 communication
+modem: allows connecting to the internet
+network card: necessary to connect the internet to the computer
 router: route multiple computers together
+used to communicate between computers
