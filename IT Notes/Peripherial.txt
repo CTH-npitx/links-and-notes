@@ -2,6 +2,10 @@ peripherial devices add functionality that is not inherent to the computer (it w
 you don't need, say, a keyboard to run it
 
 inputs:
+microphones
+keyboard
+mouse
+scanner
 they take non-digital things, like sound, into binary
 
 outputs:
