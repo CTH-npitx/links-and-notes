@@ -1,2 +1,4 @@
 Safe mode disables every third party software, leaveing just the base windows drivers
 very good to determine if the issue is windows-based, or third party software based. Or hardware.
+
+there are many ways to do it:
