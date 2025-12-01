@@ -7,3 +7,4 @@ you can get details of it. Can be used to update them, disable devices to test o
 uninstall device, (which delete the drivers and then tells it that it doesn't exist)
 
 "rollback driver", if something goes wrong, you can use this to roll back to a previous version
+resourses tab, which straight up tells you the resource tab
