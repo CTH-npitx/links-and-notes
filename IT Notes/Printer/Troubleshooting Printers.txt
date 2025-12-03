@@ -1,2 +1,4 @@
 test print, check if on
 stuff hang in quue
+can have wrong order, defaulting to, say, PDF
+	can try clearing it, or refreshing it if hung up
