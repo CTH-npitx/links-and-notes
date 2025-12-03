@@ -1,0 +1,1 @@
+test print: can be done from OS, or from printer's menue
