@@ -7,3 +7,4 @@ Dye-Sublimation Printers: use heat to transfer dye onto special papper or other 
 3D printing: uses a filament to build stuff. Can be slow, some filiments are expensive, sometimes multiple filiments
 All in one printers: they combine multiple functions, including printing, copying, scanning, and faxing. They provide conviencence, but are sometimes "jack of all trades, master of none"
 Large Format Printers: for larger pieces of paper, they have high detail, oversized, are large
+Mobile Printers: compact, lightweight, they can print directly from phones/ tablets. However, slower
