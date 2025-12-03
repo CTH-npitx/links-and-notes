@@ -8,3 +8,4 @@ Dye-Sublimation Printers: use heat to transfer dye onto special papper or other 
 All in one printers: they combine multiple functions, including printing, copying, scanning, and faxing. They provide conviencence, but are sometimes "jack of all trades, master of none"
 Large Format Printers: for larger pieces of paper, they have high detail, oversized, are large
 Mobile Printers: compact, lightweight, they can print directly from phones/ tablets. However, slower
+Plotters: high-quality, large scale. They handle larger paper sized, for precision and accuracy. Struggle with text
