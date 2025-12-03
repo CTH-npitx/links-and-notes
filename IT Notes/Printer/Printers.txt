@@ -4,3 +4,4 @@ Laser: use a laser to make an electric picture on a heat. They are fast and prod
 Dot Matrix: they had a bunch pins that hit a ribbon, and that transferred the ink. But they are loud and low-quality, however they can make more than one at once (especially with carbon paper). They are nowadays mostly just for carbon copies and receipts
 Thermal Transfer Printers: they just burn it in, the quality may fade (literally fade over time), and requires a special paper. Fast and quiet.
 Dye-Sublimation Printers: use heat to transfer dye onto special papper or other materials like fabric or plastic. They are often used for shirts. Expensive ink and spacer, long last
+3D printing: uses a filament to build stuff. Can be slow, some filiments are expensive, sometimes multiple filiments
