@@ -1,1 +1,1 @@
-test print: can be done from OS, or from printer's menuetest print, check if on
+test print, check if on
