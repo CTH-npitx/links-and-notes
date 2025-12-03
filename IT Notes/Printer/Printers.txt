@@ -1,0 +1,2 @@
+Inkjet: sprays dots of ink onto the paper.
+	Can do color, black and white, ect. It's just ink.
