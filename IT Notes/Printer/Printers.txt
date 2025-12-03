@@ -1,2 +1,3 @@
 Inkjet: sprays dots of ink onto the paper.
 	Can do color, black and white, ect. It's just ink.
+Laser: use a laser to make an electric picture on a heat. They are fast and produce crisp text. They are cheaper overtime, but they are more expensive upfront. They are all larger, but the color ones are even larger and more expensive
