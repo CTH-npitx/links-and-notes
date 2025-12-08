@@ -33,6 +33,9 @@ also check for compatibility of the paper, both material (cardstock? photo paper
 Don't yank the paper out, can cause damage. Pull it gently, and some printers have a mechanisim to manually move it.
 cleaning it also helps.
 ink
+for ink, you can check it, use compatible cartridges. Replacing cartriges is simple
+	sometimes this won't auto-update ink levels
+printing with low ink can cause, well, issues...
 print quality:
 an error is the ultimate (and rarest) help
 
