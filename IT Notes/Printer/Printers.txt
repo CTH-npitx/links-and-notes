@@ -10,4 +10,4 @@ Large Format Printers: for larger pieces of paper, they have high detail, oversi
 Mobile Printers: compact, lightweight, they can print directly from phones/ tablets. However, slower
 Plotters: high-quality, large scale. They handle larger paper sized, for precision and accuracy. Struggle with text
 UV Printers: rely on ultiviolot light to cure the ink onto objects, good for glass, magnets, ect. Even metal.
-Digital Presses: fast, consistent high quality printing, however expensive and often requires special trainingToner: uses a powder, then heats it, baking it in
+Digital Presses: fast, consistent high quality printing, however expensive and often requires special trainingToner: uses a powder, then heats it, baking it in____________
