@@ -10,6 +10,9 @@ Also many manufactures have apps that also offer more features, as well as third
 
 Some printers can have an e-mail address, and you can e-mail stuff to it to print. So long as both you and it are connected to the internet, it can print
 printer is slow
+	if over wi-fi, will often be slower. Being closer to the printer will help due to distance. But, come on, use the ethernet!
+
+some things to do are avoid duplexing, lower quality via draft mode. You can (if applicable) change from useing Host based (or PCL), vs. post script, which are often higher quality, but can be slower
 cost per ink/ cost
 Quality:
 Paperjams:
