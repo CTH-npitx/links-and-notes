@@ -1,4 +1,14 @@
 identifying printer issues:
+easiest way to determine it is if you know the symptoms, as then you can narrow it down.
+	Sometimes an error message will be provided, sometimes it will even be useful
+
+a common symptom is "weird noise"
+	clicking, grinding, whirring; often mechanical things
+
+Pages not fully completly, probally low ink
+if quality keeps randomly changeing, probally a driver or such
+
+if you know what your looking at, even if you don't fully understand how to fix it, if you know more, it will help others troubleshoot...
 connectivity issues;
 Paper jams; the soloution is simple, unjam it.
 ink
