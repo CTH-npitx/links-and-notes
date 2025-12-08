@@ -46,4 +46,8 @@ Out of ink? well... duh
 
 on some printers they even give on screen instructions!
 
+compatability: the bane of every software developers existance.
+in-compatible printers will, well... have fun
+
+sometimes you may need a software. Not driver, software
 
