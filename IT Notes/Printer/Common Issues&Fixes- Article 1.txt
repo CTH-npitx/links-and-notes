@@ -35,3 +35,5 @@ Paperjams:
 		more
 getting to them can be anywhere from easy to practicly disassemble printer
 scanner stops working on multifunction printer:
+	it may have failed
+	check for software
