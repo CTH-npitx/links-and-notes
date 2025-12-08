@@ -41,5 +41,9 @@ random lines for no apparent reason, faded, blurry, ect.
 check ink, checking paper, check quality, make sure settings are good.
 clogged print head, so you might need to align and clean. Often done through the printer itself
 an error is the ultimate (and rarest) help
+ for instance "paper jam", means, well, paper jam.
+Out of ink? well... duh
+
+on some printers they even give on screen instructions!
 
 
