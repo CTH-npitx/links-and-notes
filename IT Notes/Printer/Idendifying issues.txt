@@ -10,6 +10,18 @@ if quality keeps randomly changeing, probally a driver or such
 
 if you know what your looking at, even if you don't fully understand how to fix it, if you know more, it will help others troubleshoot...
 connectivity issues;
+more prevelant, difficulties with wi-fi, usb, ethernet, being on...
+weak signals hinder connectivity
+physical obstructions can case issues
+also needs to be on the right wi-fi. If disconnected, re-type it
+if blutooth, make sure it's paired.
+try disconnecting and re-connecting. Or, just cycle it
+
+if local, check cable, check it's plugged in, check other ports, clean plugs...
+
+you can try windows troubleshooter, but it's kinda not useful...
+
+check that it's detected as a printer... is it is, you can try forgetting and re-connecting.
 Paper jams; the soloution is simple, unjam it.
 ink
 print quality:
