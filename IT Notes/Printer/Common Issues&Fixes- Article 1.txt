@@ -26,4 +26,12 @@ If toner, try shacking it. For inkjets, nozzle cleaning, ect. Also, ink and tone
 
 If useing an inkjet to print photos, the right paper is important.
 Paperjams:
+	there can be up to 7 locations. So, it can:
+		be in the back
+		the tray
+		the feed
+		the toner area
+		
+		more
+getting to them can be anywhere from easy to practicly disassemble printer
 scanner stops working on multifunction printer:
