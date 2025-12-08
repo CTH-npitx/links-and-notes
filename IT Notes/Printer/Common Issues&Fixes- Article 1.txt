@@ -1,4 +1,6 @@
 Printer not working
+with some printers, especially HP, you may need to re-install the driver
+check if on the same wi-fi
 printer says it has no ink, but it prints;
 I can't print from my mobile device
 printer is slow
