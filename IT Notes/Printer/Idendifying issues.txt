@@ -37,6 +37,9 @@ for ink, you can check it, use compatible cartridges. Replacing cartriges is sim
 	sometimes this won't auto-update ink levels
 printing with low ink can cause, well, issues...
 print quality:
+random lines for no apparent reason, faded, blurry, ect.
+check ink, checking paper, check quality, make sure settings are good.
+clogged print head, so you might need to align and clean. Often done through the printer itself
 an error is the ultimate (and rarest) help
 
 
