@@ -14,6 +14,10 @@ printer is slow
 
 some things to do are avoid duplexing, lower quality via draft mode. You can (if applicable) change from useing Host based (or PCL), vs. post script, which are often higher quality, but can be slower
 cost per ink/ cost
+	print drafts in Black and White.
+	duplex can half the amount of paper
+	you can use "larger ink", which will cost more, but you buy ink less often. Much less often.
+	You can use third party ink, and it will often work. Some printers will use software to force you to use theirs
 Quality:
 Paperjams:
 scanner stops working on multifunction printer:
