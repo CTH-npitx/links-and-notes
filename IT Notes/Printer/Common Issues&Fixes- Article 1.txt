@@ -5,6 +5,10 @@ printer says it has no ink, but it prints;
 you might be getting a warning before it's out. You can just keep printing
 some test prints have bar graphs of the amount.
 I can't print from my mobile device
+	most new wi-fi printers to have "air-print", so iPhones/ apple OS can print if on the same network.
+Also many manufactures have apps that also offer more features, as well as third party ones. Some can even trigger scanners.
+
+Some printers can have an e-mail address, and you can e-mail stuff to it to print. So long as both you and it are connected to the internet, it can print
 printer is slow
 cost per ink/ cost
 Quality:
