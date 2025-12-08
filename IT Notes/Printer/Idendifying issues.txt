@@ -23,6 +23,15 @@ you can try windows troubleshooter, but it's kinda not useful...
 
 check that it's detected as a printer... is it is, you can try forgetting and re-connecting.
 Paper jams; the soloution is simple, unjam it.
+The execution, not so much. It can be in the;
+Input Tray
+Output Tray
+and between 0 to 5 internal locations
+	and they vary from "move one thing" to "basically disassemble it"
+also check for compatibility of the paper, both material (cardstock? photo paper? wrong size?), and other stuff.
+
+Don't yank the paper out, can cause damage. Pull it gently, and some printers have a mechanisim to manually move it.
+cleaning it also helps.
 ink
 print quality:
 an error is the ultimate (and rarest) help
