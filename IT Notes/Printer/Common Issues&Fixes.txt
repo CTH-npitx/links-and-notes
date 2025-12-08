@@ -1,8 +1,0 @@
-Printer not working
-with some printers, especially HP, you may need to re-install the driver
-check if on the same wi-fi
-
-printer says it has no ink, but it prints;
-you might be getting a warning before it's out. You can just keep printing
-some test prints have bar graphs of the amount.
-
