@@ -51,3 +51,8 @@ in-compatible printers will, well... have fun
 
 sometimes you may need a software. Not driver, software
 
+maintnence
+run alignments and cleaning
+use microfiber on scanner
+run updadates
+dust
