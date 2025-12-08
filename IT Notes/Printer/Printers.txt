@@ -12,3 +12,4 @@ Plotters: high-quality, large scale. They handle larger paper sized, for precisi
 UV Printers: rely on ultiviolot light to cure the ink onto objects, good for glass, magnets, ect. Even metal.
 Digital Presses: fast, consistent high quality printing, however expensive and often requires special training
 ____________
+Toner: uses a powder, then heats it, baking it in
