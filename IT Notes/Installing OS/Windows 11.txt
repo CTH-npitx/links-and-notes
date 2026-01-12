@@ -21,4 +21,5 @@ creating an installation drive is easy. You download the program, run it, and it
 rufus.ie
 ____________________________________________________________________________________________________________________
 free, open source. when opened, bunch of settings
-can use multiple different disck image formats.
+can use multiple different disk image formats. You also can download the iso from a given location (new feature)
+You also can download the iso from a given location (new feature), or from one you already downloaded
