@@ -32,3 +32,5 @@ partition scheme
 	mbr (master boot record)
 uses uefi
 set file system
+adjust cluster size
+quick format: will format a drive faster, at the cost of security
