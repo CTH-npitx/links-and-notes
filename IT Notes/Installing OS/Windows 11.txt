@@ -30,4 +30,5 @@ windows to go, which allows you to experiment with it, a simple "trial" version.
 partition scheme
 	gpt (guid partition table)
 	mbr (master boot record)
+uses uefi
 set file system
