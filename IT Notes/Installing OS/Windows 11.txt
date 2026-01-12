@@ -7,3 +7,4 @@ TPM 2.0
 	used for secure boot, which checks if bios has been tampered with
 direct x 12
 officially, a Microsoft account
+2 (technically 3) primary ways to install windows
