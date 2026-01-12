@@ -23,6 +23,7 @@ ________________________________________________________________________________
 to work, you need the .iso file
 	identical storage image of optical media
 		international storage standards organization
+
 money is for activation, not installation. You can get the .iso for free
 ____________________________________________________________________________
 creating an installation drive is easy. You download the program, run it, and it's a guided process. Pick format. USB, in which case it will check for USB drives. Or the .iso file, in which case it will just download as an iso file
