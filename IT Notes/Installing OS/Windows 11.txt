@@ -29,5 +29,5 @@ standard instillation
 windows to go, which allows you to experiment with it, a simple "trial" version. It has a button on it to install it
 partition scheme
 	gpt (guid partition table)
-	mbr (master boot record)uses uefi
+	mbr (master boot record)
 set file system
