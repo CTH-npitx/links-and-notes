@@ -2,6 +2,7 @@
 4 gigs of ram
 64 gigs of storage
 UEFI and Secure Boot
+
 TPM 2.0
 	trusted platform module
 	used for secure boot, which checks if bios has been tampered with
