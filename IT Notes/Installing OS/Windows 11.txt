@@ -35,6 +35,7 @@ rufus.ie
 ____________________________________________________________________________________________________________________
 
 free, open source. when opened, bunch of settings
+
 can use multiple different disk image formats. You also can download the iso from a given location (new feature)
 You also can download the iso from a given location (new feature), or from one you already downloaded
 other options include:
