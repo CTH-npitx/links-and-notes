@@ -13,5 +13,4 @@ officially, a Microsoft account
 3.PXE Boot: you download a copy over the network, and acess it over the server. It's great for multiple devices, if it works. Also bypasses hardware checks
 _________________________________________________________________________________________________________________________________
 to work, you need the .iso file
-identical storage image of optical media
-international standards organization
+international standards organization		international standards organization
