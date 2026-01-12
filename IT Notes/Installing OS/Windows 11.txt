@@ -8,3 +8,4 @@ TPM 2.0
 direct x 12
 officially, a Microsoft account
 2 (technically 3) primary ways to install windows
+1. Using the "windows media creation kit". It's a free Microsoft program for making a USB that will auto-install windows. Downside is, you can't bypass any hard requirements like TPM
