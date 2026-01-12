@@ -1,0 +1,4 @@
+1 gigahertz CPU, 2 cores
+4 gigs of ram
+64 gigs of storage
+UEFI and Secure Boot
