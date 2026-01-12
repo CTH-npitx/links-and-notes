@@ -25,3 +25,4 @@ can use multiple different disk image formats. You also can download the iso fro
 You also can download the iso from a given location (new feature), or from one you already downloaded
 other options include:
 standard instillation
+windows to go, which allows you to experiment with it, a simple "trial" version. It has a button on it to install it
