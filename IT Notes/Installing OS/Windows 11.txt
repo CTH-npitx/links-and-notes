@@ -15,3 +15,4 @@ ________________________________________________________________________________
 to work, you need the .iso file
 	identical storage image of optical media
 		international storage standards organization
+money is for activation, not installation. You can get the .iso for free
