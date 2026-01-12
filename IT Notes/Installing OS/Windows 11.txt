@@ -11,3 +11,7 @@ officially, a Microsoft account
 1. Using the "windows media creation kit". It's a free Microsoft program for making a USB that will auto-install windows. Downside is, you can't bypass any hard requirements like TPM
 2. useing Rufus, which is a third party program to set up thumbdrives for installing, allowing the disableing of certain checks, such as the TPM module
 3.PXE Boot: you download a copy over the network, and acess it over the server. It's great for multiple devices, if it works. Also bypasses hardware checks
+_________________________________________________________________________________________________________________________________
+to work, you need the .iso file
+identical storage image of optical media
+international standards organization
