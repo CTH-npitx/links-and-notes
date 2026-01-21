@@ -4,3 +4,4 @@ the "public" folder will be accessable by all
 
 app data is often quite big, most programs use it to store profile-specific stuff
 advanced system settings: use to delete user profile
+migrateing not simple, research more?
