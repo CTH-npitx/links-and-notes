@@ -7,3 +7,11 @@ app data is often quite big, most programs use it to store profile-specific stuf
 advanced system settings: use to delete user profile
 
 migrateing not simple, research more?
+
+you can also migrate during install
+
+___________________
+audit mode
+
+built in administrator account, typically disabled (can view in computer management, requires being an admin?)
+requires enableing, and it can manipulate setings across the device
