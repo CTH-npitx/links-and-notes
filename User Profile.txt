@@ -18,3 +18,4 @@ requires enableing, and it can manipulate setings across the device)
 
 requires sysrep, which is hidden, buried in the most dangerous folder ther is: system32
 go to sysprep folder, then run the exe
+once opened, have to deal with command prompt
