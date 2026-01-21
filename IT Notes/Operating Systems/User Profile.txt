@@ -14,4 +14,7 @@ ___________________
 audit mode
 
 built in administrator account, typically disabled (can view in computer management, requires being an admin?)
-requires enableing, and it can manipulate setings across the device
+requires enableing, and it can manipulate setings across the device)
+
+requires sysrep, which is hidden, buried in the most dangerous folder ther is: system32
+go to sysprep folder, then run the exe
