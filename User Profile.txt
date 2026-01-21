@@ -7,6 +7,8 @@ app data is often quite big, most programs use it to store profile-specific stuf
 advanced system settings: use to delete user profile
 
 migrateing not simple, research more?
+
 you can also migrate during install
+
 ___________________
 audit mode
