@@ -12,3 +12,5 @@ you can also migrate during install
 
 ___________________
 audit mode
+
+built in administrator account, typically disabled
