@@ -14,3 +14,4 @@ ___________________
 audit mode
 
 built in administrator account, typically disabled (can view in computer management, requires being an admin?)
+requires enableing, and it can manipulate setings across the device
