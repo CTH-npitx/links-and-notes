@@ -5,7 +5,7 @@ VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Notes Program", "Notes Program.csproj", "{A7950E0E-1AF6-40EC-A19F-25E5DA79EE81}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program Notes", "Program Notes\Program Notes.csproj", "{60B007A0-482B-420A-8496-44AE41078580}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program Notes", "Program Notes.csproj", "{60B007A0-482B-420A-8496-44AE41078580}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -24,5 +24,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {919D3913-C66E-4253-841B-0944C947EAA1}
 	EndGlobalSection
 EndGlobal
