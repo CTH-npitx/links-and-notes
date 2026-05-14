@@ -4,6 +4,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Notes Program", "Notes Program.csproj", "{A7950E0E-1AF6-40EC-A19F-25E5DA79EE81}"
+	ProjectSection(ProjectDependencies) = postProject
+		{60B007A0-482B-420A-8496-44AE41078580} = {60B007A0-482B-420A-8496-44AE41078580}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program Notes", "Program Notes.csproj", "{60B007A0-482B-420A-8496-44AE41078580}"
 EndProject
