@@ -5,3 +5,4 @@
 in this case:
 	5. username (keep same)
 	6. Database Name NPHDC2
+	7. Encrypt: true
