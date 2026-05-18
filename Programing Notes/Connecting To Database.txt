@@ -3,6 +3,6 @@
 3. view "SQL Server Object Explorer"
 4. add SQL server
 in this case:
-	8. Trust Server Certificate, True:	4a. Server name: NPHDC2
 	4a. Server name: NPHDC2
 	4b. Authentication: Windows Authentication
+	4c. User Name: keep same
