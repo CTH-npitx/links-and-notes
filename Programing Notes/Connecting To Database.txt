@@ -9,3 +9,4 @@ in this case:
 	4d: password: n/a
 	4e: Database Name: chatch
 	4f: Encrypt: mandatory (true)
+	4g: Trust Server Certificate, True
