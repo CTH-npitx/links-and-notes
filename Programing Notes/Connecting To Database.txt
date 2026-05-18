@@ -6,4 +6,5 @@ in this case:
 	5. username (keep same)
 	6. Database Name NPHDC2
 	7. Encrypt: true
-	8. Trust Server Certificate, True:5. Connect
+	8. Trust Server Certificate, True
+5. Connect
