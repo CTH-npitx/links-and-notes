@@ -6,3 +6,4 @@ in this case:
 	4a. Server name: NPHDC2
 	4b. Authentication: Windows Authentication
 	4c. User Name: keep same
+	4d: password: n/a
