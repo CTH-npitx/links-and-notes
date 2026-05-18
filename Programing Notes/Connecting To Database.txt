@@ -10,3 +10,4 @@ in this case:
 	4e: Database Name: chatch
 	4f: Encrypt: mandatory (true)
 	4g: Trust Server Certificate, True
+5. Connect
