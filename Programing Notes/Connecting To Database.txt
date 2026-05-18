@@ -3,3 +3,4 @@
 3. view "SQL Server Object Explorer"
 4. add SQL server
 in this case:
+	5. username (keep same)
