@@ -7,3 +7,4 @@ in this case:
 	4b. Authentication: Windows Authentication
 	4c. User Name: keep same
 	4d: password: n/a
+	4e: Database Name: chatch
