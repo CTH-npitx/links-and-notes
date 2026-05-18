@@ -2,3 +2,4 @@
 2. continue without code
 3. view "SQL Server Object Explorer"
 4. add SQL server
+in this case:
