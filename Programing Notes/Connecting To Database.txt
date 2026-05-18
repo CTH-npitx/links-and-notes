@@ -4,3 +4,4 @@
 4. add SQL server
 in this case:
 	5. username (keep same)
+	6. Database Name NPHDC2
