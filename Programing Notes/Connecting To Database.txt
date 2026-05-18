@@ -8,3 +8,4 @@ in this case:
 	4c. User Name: keep same
 	4d: password: n/a
 	4e: Database Name: chatch
+	4f: Encrypt: mandatory (true)
