@@ -2,7 +2,6 @@
 2. continue without code
 3. view "SQL Server Object Explorer"
 4. add SQL server
-	4d: password: n/a
 	4e: Database Name: chatch
 	4f: Encrypt: mandatory (true)
 	4g: Trust Server Certificate, True
@@ -10,4 +9,5 @@
 	5a. Server name: NPHDC2
 	5b. Authentication: Windows Authentication
 	5c. User Name: keep same
+	5d: password: n/a
 6. Connect
