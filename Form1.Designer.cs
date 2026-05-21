@@ -1,4 +1,4 @@
-﻿namespace Adress_Shack
+﻿namespace Notse_Program
 {
     partial class Form1
     {

@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Adress_Shack
+namespace Notse_Program
 {
     public partial class Form1 : Form
     {

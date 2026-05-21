@@ -1,2 +1,1 @@
-# Adress-Shack
-A combination of adress book and snack shak
+Just a spot to upload links, notes, and miscellaneous files

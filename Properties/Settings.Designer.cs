@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Adress_Shack.Properties
+namespace Notse_Program.Properties
 {
 
 
