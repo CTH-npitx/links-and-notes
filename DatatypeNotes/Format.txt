@@ -1,0 +1,3 @@
+use single quotes ('') for text
+use -- for comments
+use 
