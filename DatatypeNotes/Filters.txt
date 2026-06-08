@@ -12,4 +12,7 @@ parenthases use to check multiple things in groups
 for things that are general things:
 use LIKE: so;
 WHERE field LIKE condition
+use: '%c' for "ends with c"
+use "'c%: for "starts with c"
+use "%c%" for "contains c"
 things to check:
