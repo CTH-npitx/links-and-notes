@@ -7,5 +7,6 @@ not equal to: !=
 greater than or equal >=
 less than or equal <=
 for multiple, use "AND" (use "or" for, well, or)
+AND "condition"
 for things that are general things:
 things to check:
