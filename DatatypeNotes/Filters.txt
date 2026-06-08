@@ -10,4 +10,6 @@ for multiple, use "AND" (use "or" for, well, or)
 AND "condition"
 parenthases use to check multiple things in groups
 for things that are general things:
+use LIKE: so;
+WHERE field LIKE condition
 things to check:
