@@ -4,11 +4,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Notes Program", "Notes Program.csproj", "{A7950E0E-1AF6-40EC-A19F-25E5DA79EE81}"
+	ProjectSection(ProjectDependencies) = postProject
+		{60B007A0-482B-420A-8496-44AE41078580} = {60B007A0-482B-420A-8496-44AE41078580}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program Notes", "Program Notes.csproj", "{60B007A0-482B-420A-8496-44AE41078580}"
-	ProjectSection(ProjectDependencies) = postProject
-		{A7950E0E-1AF6-40EC-A19F-25E5DA79EE81} = {A7950E0E-1AF6-40EC-A19F-25E5DA79EE81}
-	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sub_Projects", "Sub_Projects", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
 EndProject
