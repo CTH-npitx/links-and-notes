@@ -79,6 +79,8 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="DatatypeNotes\Format.txt" />
+    <Content Include="DatatypeNotes\Wording\Format.txt" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
