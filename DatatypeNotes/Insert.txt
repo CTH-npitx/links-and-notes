@@ -1,6 +1,8 @@
 Insert Into Table (field1, field2,... fieldn)
 	"table" is the name of the table, field"n" is the field to insert
 Values (value1, value2, ... valuen)
+- can skip fields if null is allowed
+- order of values must be same as table (so value1 must be the first (non-id) column)
 
 for example:
 insert into ingredients
