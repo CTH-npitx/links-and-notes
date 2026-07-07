@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
   <PropertyGroup>
@@ -63,8 +63,7 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
-    <None Include="datatypeNotes.csproj" />
-    <None Include="Programing Notes\DatatypeNotes\Database 1.xlsx" />
+    <None Include="Programing Notes\Database Notes\Database 1.xlsx" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -79,6 +78,11 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Programing Notes\Database Notes\add query.png" />
+    <Content Include="Programing Notes\Database Notes\Connecting To Database.txt" />
+    <Content Include="Programing Notes\Database Notes\Filtering.txt" />
+    <Content Include="Programing Notes\Database Notes\Format.txt" />
+    <Content Include="Programing Notes\Database Notes\Wording\Format.txt" />
     <Content Include="Programing Notes\Programming Notes.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
