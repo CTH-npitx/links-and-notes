@@ -20,3 +20,4 @@ to edit multiple
 Update Ingredients SET
 Description = 'Pizza Dough', Qty = 50
 where ID = 6
+that would change id 6 (dough,12) into (pizza dough, 50)
