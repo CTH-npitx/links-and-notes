@@ -6,4 +6,5 @@ for example:
 insert into ingredients
 (Description, Qty)
 ('Mozzerella', 64)
+______________
 
