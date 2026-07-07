@@ -78,8 +78,8 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="DatatypeNotes\Format.txt" />
-    <Content Include="DatatypeNotes\Wording\Format.txt" />
+    <Content Include="DatatypeNotes\Query.txt" />
+    <Content Include="DatatypeNotes\Misplaced Info\Format.txt" />
   </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
