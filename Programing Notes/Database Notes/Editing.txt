@@ -13,7 +13,7 @@ where id = 4.
 
 then pinaple's quantity will change to 26
 
-this is just setting, so it overwrites. if decreasing, just overwrite with the calculated value
+	this is just setting, so it overwrites. if decreasing, just overwrite with the calculated value
 
 ________________________
 to edit multiple
