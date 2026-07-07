@@ -16,3 +16,5 @@ Insert Into Table
 Values (value1, value2, ... valuen)
 - has to use all (you can leave off ones, but only if there is nothing after and it can be null)
 so, have to use all values untill you reach a point where all following values are null
+insert into ingredients
+('Mozzerella', 64)
