@@ -63,7 +63,7 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
-    <None Include="datatypeNotes.csproj" />
+    <None Include="Programing Notes\databaseNotes.csproj" />
     <None Include="Database Notes\Database 1.xlsx" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
