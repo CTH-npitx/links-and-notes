@@ -1,7 +1,4 @@
-use single quotes ('') for text
-use -- for comments
-General format:
+To select:
 
 SELECT fields FROM table
 	"fields" will be replaced with the desired field, "table" will be replaced with the desired table
-
