@@ -1,0 +1,5 @@
+Update table
+'table' is the name of the table (say, ingredients)
+Update ingredients
+SET Qty = 26
+where id = 4.
