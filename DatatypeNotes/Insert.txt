@@ -10,3 +10,6 @@ insert into ingredients
 ('Mozzerella', 64)
 ______________
 
+Insert Into Table
+	"table" is the name of the table
+Values (value1, value2, ... valuen)
