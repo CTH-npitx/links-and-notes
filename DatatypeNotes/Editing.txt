@@ -1,5 +1,7 @@
 Update table
 'table' is the name of the table (say, ingredients)
+set field1 = value1, field2 = value2, ... fieldn = valuen
+where id=x can select row
 Update ingredients
 SET Qty = 26
 where id = 4.
