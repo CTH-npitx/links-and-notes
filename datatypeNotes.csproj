@@ -78,6 +78,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="DatatypeNotes\Editing.txt" />
     <Content Include="DatatypeNotes\Format.txt" />
     <Content Include="DatatypeNotes\Insert.txt" />
   </ItemGroup>
