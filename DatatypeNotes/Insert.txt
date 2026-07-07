@@ -1,2 +1,5 @@
+Insert Into Table (field1, field2,... fieldn)
+	"table" is the name of the table, field"n" is the field to insert
+Values (value1, value2, ... valuen)
 
 
