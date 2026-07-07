@@ -12,6 +12,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program Notes", "Program No
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sub_Projects", "Sub_Projects", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Datatype Notes", "Programing Notes\Datatype Notes\Datatype Notes.csproj", "{FFDC505D-D5FE-485A-992E-BA564B1D8735}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -26,12 +28,17 @@ Global
 		{60B007A0-482B-420A-8496-44AE41078580}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{60B007A0-482B-420A-8496-44AE41078580}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{60B007A0-482B-420A-8496-44AE41078580}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFDC505D-D5FE-485A-992E-BA564B1D8735}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFDC505D-D5FE-485A-992E-BA564B1D8735}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFDC505D-D5FE-485A-992E-BA564B1D8735}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFDC505D-D5FE-485A-992E-BA564B1D8735}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{60B007A0-482B-420A-8496-44AE41078580} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{FFDC505D-D5FE-485A-992E-BA564B1D8735} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {919D3913-C66E-4253-841B-0944C947EAA1}
