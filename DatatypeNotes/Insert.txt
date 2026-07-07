@@ -18,3 +18,5 @@ Values (value1, value2, ... valuen)
 so, have to use all values untill you reach a point where all following values are null
 insert into ingredients
 ('Mozzerella', 64)
+if the first one is null, we have to define:
+  (null, 64)
