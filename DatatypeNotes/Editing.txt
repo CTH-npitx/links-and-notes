@@ -1,7 +1,10 @@
 Update table
 'table' is the name of the table (say, ingredients)
+
 set field1 = value1, field2 = value2, ... fieldn = valuen
+
 where id=x can select row
+
 if pinaple is id 4, and has 2, then:
 
 Update ingredients
