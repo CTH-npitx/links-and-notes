@@ -22,3 +22,5 @@ if the first one is null, we have to define:
   (null, 64)
   -if the second is null:
   ('dough')
+  -if there's a third one that isn't null:
+  ('dough',null,TRUE)
