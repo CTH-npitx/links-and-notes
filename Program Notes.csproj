@@ -63,6 +63,7 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <None Include="Programing Notes\Database Notes\Database 1.xlsx" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -77,6 +78,10 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Programing Notes\Database Notes\add query.png" />
+    <Content Include="Programing Notes\Database Notes\Connecting To Database.txt" />
+    <Content Include="Programing Notes\Database Notes\Filtering.txt" />
+    <Content Include="Programing Notes\Database Notes\Format.txt" />
     <Content Include="Programing Notes\Programming Notes.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
