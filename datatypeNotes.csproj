@@ -79,7 +79,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="DatatypeNotes\Query.txt" />
-    <Content Include="DatatypeNotes\Misplaced Info\Format.txt" />
+    <Content Include="DatatypeNotes\Misplaced Info\toSort.txt" />
   </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
