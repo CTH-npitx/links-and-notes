@@ -83,7 +83,6 @@
     <Content Include="Programing Notes\Database Notes\Filtering.txt" />
     <Content Include="Programing Notes\Database Notes\Format.txt" />
     <Content Include="Programing Notes\Database Notes\Misplaced Info\toSort.txt" />
-    <Content Include="Programing Notes\Database Notes\Wording\Format.txt" />
     <Content Include="Programing Notes\Programming Notes.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
