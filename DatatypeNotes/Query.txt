@@ -2,20 +2,6 @@ use single quotes ('') for text
 use -- for comments
 General format:
 
--- Formula:
--- insert into [table] (field 1, 2, 3...)
--- values (value 1, 2, 3...)
 SELECT fields FROM table
 	"fields" will be replaced with the desired field, "table" will be replaced with the desired table
 
-for instance: 
-Insert into Contacts (FirstName, LastName, PhoneNum, EMail, Notes)
-Values ('Charlie2', 'Hatch2', '555999444', 'email@email.email', 'Notes');
-
--- single quote for strings, 1, 0, or null for bit
-
-Select * From Contacts to select all rows
-
-often use 2 words (SELECT FROM, for instance)
-
-SELECT 
