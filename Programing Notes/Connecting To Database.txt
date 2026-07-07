@@ -11,3 +11,13 @@
 	5f: Encrypt: mandatory (true)
 	5g: Trust Server Certificate, True
 6. Connect
+=======
+in this case:
+	4a. Server name: NPHDC2
+	4b. Authentication: Windows Authentication
+	4c. User Name: keep same
+	4d: password: n/a
+	4e: Database Name: chatch
+	4f: Encrypt: mandatory (true)
+	4g: Trust Server Certificate, True
+5. Connect
