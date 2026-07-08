@@ -26,3 +26,8 @@ other types:
 fiber optic is most recent, coaxial wasn't even designed for networking, but as it worked, it worked
 pros;
 faster, secure
+cons;
+limited mobility
+	if anything though, better than some
+more requirments
+on-premise
