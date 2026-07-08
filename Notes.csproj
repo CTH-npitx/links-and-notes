@@ -14,4 +14,8 @@
     <None Remove="Programing Notes\**" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Include="ProgramNotes\ProgramNotes.csproj" />
+  </ItemGroup>
+
 </Project>
