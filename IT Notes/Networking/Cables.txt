@@ -24,3 +24,5 @@ other types:
 -coaxial
 -fiber optic
 fiber optic is most recent, coaxial wasn't even designed for networking, but as it worked, it worked
+pros;
+faster, secure
