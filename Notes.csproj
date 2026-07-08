@@ -8,4 +8,10 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="Programing Notes\**" />
+    <EmbeddedResource Remove="Programing Notes\**" />
+    <None Remove="Programing Notes\**" />
+  </ItemGroup>
+
 </Project>
