@@ -14,7 +14,8 @@ tested under (at least):
 involves fire spread/ smoke density
 
 doesn't include walls (those are risers)
-	those cables often called "risers"riser: medium instead of high fire resistance
+	those cables often called "risers"
+
 riser: medium instead of high fire resistance
 risers: often PVC, maybe somewhat flame retardant
 risers: more fumes and such
