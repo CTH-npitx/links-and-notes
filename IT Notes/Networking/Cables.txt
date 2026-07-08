@@ -19,6 +19,8 @@ doesn't include walls (those are risers)
 riser: medium instead of high fire resistance
 risers: often PVC, maybe somewhat flame retardant
 risers: more fumes and such
+ethernet cables:
+other types:
 -coaxial
 -fiber optic
 fiber optic is most recent, coaxial wasn't even designed for networking, but as it worked, it worked
