@@ -1,2 +1,3 @@
 Plenum Cables:
 	designed to work in the Plenum space, which is between floors
+made with things like fluorinated ethylene polypmer (FEP) or low-smoke poly-vinyl chloride (LS-PVC)
