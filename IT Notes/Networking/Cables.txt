@@ -6,3 +6,9 @@ made with things like fluorinated ethylene polypmer (FEP) or low-smoke poly-viny
 plenum is a rating, so technically any ethernet can be plenum
 
 due to materials, inherently more expenseive. Also more specialized, so there's that...
+
+tested under (at least):
+	UL-910
+	NFPA-262
+
+involves fire spread/ smoke density
