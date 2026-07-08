@@ -15,3 +15,4 @@ involves fire spread/ smoke density
 
 doesn't include walls (those are risers)
 	those cables often called "risers"riser: medium instead of high fire resistance
+risers: more fumes and such
