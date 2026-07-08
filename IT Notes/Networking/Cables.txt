@@ -3,4 +3,6 @@ Plenum Cables:
 
 made with things like fluorinated ethylene polypmer (FEP) or low-smoke poly-vinyl chloride (LS-PVC)
 
+plenum is a rating, so technically any ethernet can be plenum
 
+due to materials, inherently more expenseive. Also more specialized, so there's that...
