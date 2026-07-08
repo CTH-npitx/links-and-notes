@@ -36,3 +36,5 @@ limited mobility
 	if anything though, better than some
 more requirments
 on-premise
+
+modern network: cat5e+
