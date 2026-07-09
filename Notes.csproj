@@ -9,13 +9,12 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="OtherStuff\**" />
     <Compile Remove="Programing Notes\**" />
+    <EmbeddedResource Remove="OtherStuff\**" />
     <EmbeddedResource Remove="Programing Notes\**" />
+    <None Remove="OtherStuff\**" />
     <None Remove="Programing Notes\**" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <None Include="OtherStuff\ProgramNotes.csproj" />
   </ItemGroup>
 
 </Project>
