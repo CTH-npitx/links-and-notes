@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sub_Projects", "Sub_Projects", "{ABD716FF-C7B8-48D1-B030-AB24917DD1C7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProgramNotes", "..\ProgramNotes.csproj", "{151CAD5B-7DD4-48B2-BE93-5FB41A06A8A4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Notes", "..\Notes.csproj", "{8DDF1807-7776-462A-B2B7-517AA22DCAC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{151CAD5B-7DD4-48B2-BE93-5FB41A06A8A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{151CAD5B-7DD4-48B2-BE93-5FB41A06A8A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{151CAD5B-7DD4-48B2-BE93-5FB41A06A8A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{151CAD5B-7DD4-48B2-BE93-5FB41A06A8A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DDF1807-7776-462A-B2B7-517AA22DCAC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DDF1807-7776-462A-B2B7-517AA22DCAC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DDF1807-7776-462A-B2B7-517AA22DCAC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DDF1807-7776-462A-B2B7-517AA22DCAC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF8718A2-9E5F-48EC-9687-DC973738C7BB}
+	EndGlobalSection
+EndGlobal
