@@ -18,7 +18,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Include="ProgramNotes.csproj" />
+    <None Include="OtherStuff\ProgramNotes.csproj" />
   </ItemGroup>
 
 </Project>
