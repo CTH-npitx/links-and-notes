@@ -1,0 +1,4 @@
+Deleteing:
+delete from
+
+both keywords next to each other
