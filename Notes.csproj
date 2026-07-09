@@ -11,10 +11,13 @@
   <ItemGroup>
     <Compile Remove="OtherStuff\**" />
     <Compile Remove="Programing Notes\**" />
+    <Compile Remove="T\**" />
     <EmbeddedResource Remove="OtherStuff\**" />
     <EmbeddedResource Remove="Programing Notes\**" />
+    <EmbeddedResource Remove="T\**" />
     <None Remove="OtherStuff\**" />
     <None Remove="Programing Notes\**" />
+    <None Remove="T\**" />
   </ItemGroup>
 
 </Project>
