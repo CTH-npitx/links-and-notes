@@ -10,12 +10,15 @@
 
   <ItemGroup>
     <Compile Remove="Programing Notes\**" />
+    <Compile Remove="ProgramNotes\**" />
     <EmbeddedResource Remove="Programing Notes\**" />
+    <EmbeddedResource Remove="ProgramNotes\**" />
     <None Remove="Programing Notes\**" />
+    <None Remove="ProgramNotes\**" />
   </ItemGroup>
 
   <ItemGroup>
-    <None Include="ProgramNotes\ProgramNotes.csproj" />
+    <None Include="ProgramNotes.csproj" />
   </ItemGroup>
 
 </Project>
