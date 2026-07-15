@@ -2,3 +2,4 @@ NEMA: National Electrical Manufacturers Assosciation
 	most common in US
 IEC: International Electrotechnical Commision
 	most common outside US
+most technical devices use IEC. with NEMA, most likely to find NEMA 5-15P and NEMA 5-15R (Just standard outlets). 1-15 is just non-grounding
