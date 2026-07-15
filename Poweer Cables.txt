@@ -1,5 +1,6 @@
 NEMA: National Electrical Manufacturers Assosciation
 	most common in US
+5-20 is higher amps, 5-15 lower
 IEC: International Electrotechnical Commision
 	most common outside US
 
