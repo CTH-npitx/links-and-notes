@@ -3,3 +3,4 @@ White: USB 1.0, or 1.x
 Black: 2.0; 480 Mbs
 Blue: 3.0 5 GPS
 Teal or Puble USB Gen1 or SuperSpeed+ 10 GpS
+Red: 3.1 Gen 2 or 3.2. 20 Gbps often sleep and charge, allowing charging even if main device off
