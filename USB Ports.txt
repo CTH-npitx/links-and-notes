@@ -5,3 +5,4 @@ Blue: 3.0 5 GPS
 Teal or Puble USB Gen1 or SuperSpeed+ 10 GpS
 Red: 3.1 Gen 2 or 3.2. 20 Gbps often sleep and charge, allowing charging even if main device off
 Yellow: similar to red, capable of 5 Gbps and always-on charging
+Orange Ports: usb 3.0 with high-retention features, designed for industrial use to prevent accidental disconnection.
