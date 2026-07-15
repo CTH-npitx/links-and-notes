@@ -1,2 +1,4 @@
 NEMA: National Electrical Manufacturers Assosciation
+	most common in US
 IEC: International Electrotechnical Commision
+	most common outside US
