@@ -8,6 +8,7 @@ IEC: International Electrotechnical Commision
 most technical devices use IEC. with NEMA, most likely to find NEMA 5-15P and NEMA 5-15R (Just standard outlets). 1-15 is just non-grounding
 
 IEC C5 and C6 are typical for the laptop AC adapter. Might also be IEC C13+14
+
 C7 connects to C8, can be pollar or non-pollar
 desktoips often use C13 and C14
 Apliances often use C15 and C16, although can be used elsewhere
