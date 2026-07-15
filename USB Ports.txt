@@ -1,2 +1,3 @@
 White: USB 1.0, or 1.x
 	they have transfer speed of 12 Mbs. often keyboards and mice
+Black: 2.0; 480 Mbs
