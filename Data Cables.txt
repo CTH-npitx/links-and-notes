@@ -17,5 +17,6 @@ Orange Ports: usb 3.0 with high-retention features, designed for industrial use 
 
 Green ports: often proparity, supporting Quick Charge
 
+___________________________________
 USB-C, thinner, reversible
 USB 4 is based on same technology, so if you have USB-A 4, it's the same cable as a USB C
