@@ -16,3 +16,4 @@ desktoips often use C13 and C14
 Apliances often use C15 and C16, although can be used elsewhere
 
 C19 and C20 can be found on servers, but they can also use C14 and C13
+odd numbers are outlet, even inlet
