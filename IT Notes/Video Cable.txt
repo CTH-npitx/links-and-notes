@@ -8,4 +8,5 @@ standard: tv's, monitors, ect.
 mini: cameras and camcorders
 micro: it exists?
 HDMI Switches: allows you to switch. 
-like KVM?
+like KVM?HDMI Extenders: Extends it past the max length
+
