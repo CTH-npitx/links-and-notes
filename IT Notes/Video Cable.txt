@@ -22,4 +22,4 @@ HDMI Extenders: Extends it past the max length
 
 HDMI Coupler: combineing 2 male-male
 HDMI Coupler: combining 2 male-male
-Display Port
+Display PortDisplay Port: digital
