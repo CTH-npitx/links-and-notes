@@ -24,3 +24,4 @@ HDMI Coupler: combining 2 male-male
 ________________
 Display Port: digital
 sends data similar to ethernet and USB, which is packet based 
+effectively does everything HDMI does
