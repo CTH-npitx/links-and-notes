@@ -1,5 +1,6 @@
 Visual Cables
 VGA: old scool, analog
+________________________________________
 HDMI: older- digital
 High-Definition Multimedia Interface
 created in 2002, very first devices where in 2003
