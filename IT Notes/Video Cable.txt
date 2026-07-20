@@ -19,3 +19,4 @@ HDMI Splitters: splits 1 into 2+. duh...
 HDMI Extenders: Extends it past the max length
 	no official max length, usually 15 to 25 feet for standard passive HDMI before quality drops
 
+HDMI Coupler: combineing 2 male-male
