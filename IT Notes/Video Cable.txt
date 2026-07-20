@@ -8,7 +8,7 @@ standard: tv's, monitors, ect.
 mini: cameras and camcorders
 micro: it exists?
 HDMI Switches: allows you to switch. 
-like KVM?HDMI Extenders: Extends it past the max length
+like KVM?
 HDMI Splitters: splits 1 into 2+. duh...
 HDMI Extenders: Extends it past the max length
 	no official max length, usually 15 to 25 feet for standard passive HDMI before quality drops
