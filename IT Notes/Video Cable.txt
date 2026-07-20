@@ -7,6 +7,8 @@ reason it's popular is it can send audio data. (Compressed and Uncompresed)
 standard: tv's, monitors, ect.
 mini: cameras and camcorders
 micro: it exists?
+	go-pro's
+HDMI devices
 HDMI Switches: allows you to switch. 
 like KVM?
 HDMI Splitters: splits 1 into 2+. duh...
