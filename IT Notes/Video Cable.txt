@@ -27,3 +27,5 @@ sends data similar to ethernet and USB, which is packet based
 from 2008
 effectively does everything HDMI does, but better (don't tell HDMI)
 have prongs
+Display Port: Graphics Cards, PC monitors, Docking Stations
+Mini Display Port; Graphics Cards, laptops, older apple products
