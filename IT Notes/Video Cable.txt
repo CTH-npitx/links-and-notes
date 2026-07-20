@@ -23,3 +23,4 @@ HDMI Extenders: Extends it past the max length
 HDMI Coupler: combineing 2 male-male
 HDMI Coupler: combining 2 male-male
 Display PortDisplay Port: digital
+sends data similar to ethernet and USB, which is packet based 
