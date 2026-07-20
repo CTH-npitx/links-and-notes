@@ -33,4 +33,7 @@ have prongs
 Display Port: Graphics Cards, PC monitors, Docking Stations
 Mini Display Port; Graphics Cards, laptops, older apple products
 DVI: digital visual interface
+	still used. good for analog to digital
 can act as an adapter/ converter for analog <-> digital
+	adapter: takeing one connector type to plug into another without changeing signal
+	converter: convert signal as well
