@@ -7,5 +7,5 @@ reason it's popular is it can send audio data. (Compressed and Uncompresed)
 standard: tv's, monitors, ect.
 mini: cameras and camcorders
 micro: it exists?
-	go-pro'sHDMI Switches: allows you to switch. 
-like VBM?
+HDMI Switches: allows you to switch. 
+like KVM?
