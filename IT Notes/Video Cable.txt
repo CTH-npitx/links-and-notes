@@ -2,7 +2,7 @@ HDMI: older
 High-Definition Multimedia Interface
 created in 2002, very first devices where in 2003
 
-reason it's popular is it can send audio data. (Compressed and Uncompresed)
+reason it's popular is it can send audio data. (Compressed and Uncompressed)
 
 standard: tv's, monitors, ect.
 mini: cameras and camcorders
