@@ -1,7 +1,11 @@
 HDMI: older
 High-Definition Multimedia Interface
 created in 2002, very first devices where in 2003
+
 reason it's popular is it can send audio data. (Compressed and Uncompresed)
+resolution:
+standard: 480 and 576
+2560 by 1440
 standard: tv's, monitors, ect.
 mini: cameras and camcorders
 micro: it exists?
