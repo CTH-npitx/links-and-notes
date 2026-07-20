@@ -9,6 +9,10 @@ mini: cameras and camcorders
 micro: it exists?
 	go-pro's
 HDMI devices
+	Cables
+	Adapters: HDMI -> VGA
+	Adptor Cable: see above, but as a cable. Often for USB types
+HDMI Surge Protectre: does what it says
 HDMI Switches: allows you to switch. 
 like KVM?
 HDMI Splitters: splits 1 into 2+. duh...
