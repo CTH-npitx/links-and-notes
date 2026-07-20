@@ -32,3 +32,5 @@ effectively does everything HDMI does, but better (don't tell HDMI)
 have prongs
 Display Port: Graphics Cards, PC monitors, Docking Stations
 Mini Display Port; Graphics Cards, laptops, older apple products
+DVI: digital visual interface
+can act as an adapter/ converter for analog <-> digital
