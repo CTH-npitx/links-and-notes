@@ -2,3 +2,4 @@ Types:
 
 consumer & private
 public
+dynamic
