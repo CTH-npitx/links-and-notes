@@ -5,3 +5,4 @@ public
 dynamic
 static ip
 shared IP
+Dedicated IP
