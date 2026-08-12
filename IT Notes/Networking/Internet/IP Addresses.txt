@@ -12,5 +12,6 @@ public
 dynamic
 	change automatically and regulary. That way it's harder to hack, and as it already changes, if you move, it's set up already
 static ip
+	they are consistant, hardcoded IP's. mostly unused, but necessary for webpages/ mail
 shared IP
 Dedicated IP
