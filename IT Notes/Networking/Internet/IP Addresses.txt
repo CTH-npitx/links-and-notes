@@ -10,6 +10,7 @@ consumer & private
 public
 	the primary IP for devices that connect directly to the internet. Provided by ISP
 dynamic
+	change automatically and regulary. That way it's harder to hack, and as it already changes, if you move, it's set up already
 static ip
 shared IP
 Dedicated IP
