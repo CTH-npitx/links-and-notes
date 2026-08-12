@@ -8,6 +8,7 @@ consumer & private
 	192.168.0.0
 		most common for consumer
 public
+	the primary IP for devices that connect directly to the internet. Provided by ISP
 dynamic
 static ip
 shared IP
