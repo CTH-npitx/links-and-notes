@@ -4,3 +4,4 @@ consumer & private
 public
 dynamic
 static ip
+shared IP
