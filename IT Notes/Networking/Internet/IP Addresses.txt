@@ -16,3 +16,6 @@ static ip
 shared IP
 	normally smaller pages. Typically these sites receive a new address every 7. Can't have 100% uptime as there would be short times where the IP adress
 Dedicated IP
+	Purchase a specific IP to make it easier to transfer and share files, and make getting a certifice easier
+
+natting: private IP gets put into a new packet with the public IP
