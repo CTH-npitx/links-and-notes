@@ -19,3 +19,5 @@ Dedicated IP
 	Purchase a specific IP to make it easier to transfer and share files, and make getting a certifice easier
 
 natting: private IP gets put into a new packet with the public IP
+
+most routers default to admin-admin for loging in
