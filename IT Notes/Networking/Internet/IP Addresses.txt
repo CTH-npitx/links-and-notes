@@ -3,3 +3,4 @@ Types:
 consumer & private
 public
 dynamic
+static ip
