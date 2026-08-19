@@ -1,1 +1,1 @@
-Dikjstra algorithim
+Dikjstra algorithim used to adjust distances
